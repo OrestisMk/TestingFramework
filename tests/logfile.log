@@ -1,0 +1,19 @@
+2024-12-12 18:39:50,684 :INFO : test_e2e :getting all core items
+2024-12-12 18:39:50,875 :INFO : test_e2e :iphone X
+2024-12-12 18:39:50,918 :INFO : test_e2e :Samsung Note 8
+2024-12-12 18:39:50,965 :INFO : test_e2e :Nokia Edge
+2024-12-12 18:39:51,019 :INFO : test_e2e :Blackberry
+2024-12-12 18:39:51,936 :INFO : test_e2e :Entering country name as ind
+2024-12-12 18:39:58,639 :INFO : test_e2e :Text received from application is {} ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-12 18:40:49,662 :INFO : test_formSumbission :firstname is Rahul
+2024-12-12 18:40:51,609 :INFO : test_formSumbission :firstname is aniesk
+2024-12-12 18:40:51,609 :INFO : test_formSumbission :firstname is aniesk
+2024-12-12 18:41:01,118 :INFO : test_e2e :getting all core items
+2024-12-12 18:41:01,343 :INFO : test_e2e :iphone X
+2024-12-12 18:41:01,397 :INFO : test_e2e :Samsung Note 8
+2024-12-12 18:41:01,453 :INFO : test_e2e :Nokia Edge
+2024-12-12 18:41:01,503 :INFO : test_e2e :Blackberry
+2024-12-12 18:41:02,155 :INFO : test_e2e :Entering country name as ind
+2024-12-12 18:41:08,559 :INFO : test_e2e :Text received from application is {} ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
